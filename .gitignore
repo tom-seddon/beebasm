@@ -1,3 +1,6 @@
 /.dir-locals.el
 /beebasm
 /src/objects/
+/BeebAsm.pdb
+/src/VS2010/BeebAsm.VC.*
+/src/VS2010/Obj/
